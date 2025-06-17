@@ -1,6 +1,6 @@
 # MSDSeg
 
-#### The official implementation of "Lightweight and Real-Time Semantic Segmentation Network with MultiScale Dilated Convolutions"
+#### The official implementation of "MSDSeg: A Lightweight Real-Time Semantic Segmentation Network using Multi-scale Dilated Convolutions"
 
 MSDSeg
 
@@ -53,9 +53,9 @@ If you find our work helpful, please consider citing our paper.
 
 ```
 @article{wang2025msdseg,
-  title={Lightweight and Real-Time Semantic Segmentation Network with MultiScale Dilated Convolutions},
+  title={MSDSeg: A Lightweight Real-Time Semantic Segmentation Network using Multi-scale Dilated Convolutions},
   author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
-  journal={The Visual Computer},
+  journal={Expert Systems With Applications},
   year={2025}
 }
 ```
